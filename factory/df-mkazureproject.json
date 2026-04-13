@@ -1,0 +1,9 @@
+{
+	"name": "df-mkazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dded611f-c8c0-4a3f-8880-508f4e6b00ff",
+		"tenantId": "31e9e9f0-08e5-4daa-91b7-b37acfb43cd2"
+	}
+}
